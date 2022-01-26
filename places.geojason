@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant": "Laclede",
+        "Review": "5 Star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.25972366333008,
+          38.6402044764171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant": "McRee",
+        "Review": "4 Star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.26229858398436,
+          38.62169881367633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant": "Northrup",
+        "Review": "3 Star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.26762008666992,
+          38.61915055848117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant": "Wise",
+        "Review": "2 Star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.32100677490234,
+          38.63108634101471
+        ]
+      }
+    }
+  ]
+}
